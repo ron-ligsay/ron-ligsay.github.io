@@ -1,0 +1,41 @@
+
+/** Global Variables **/
+
+
+
+/** Navbar **/
+header{
+	color: #ffd857;
+}
+
+header a{
+	color:  #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+header h1{
+	font-size: 20px;
+}
+
+header ul{
+	margin: 0;
+	padding: 0;
+}
+
+header li{
+	float: left;
+	display: inline;
+	padding: 0 20px 0 20px;
+}
+
+
+header #branding h1{
+	float: left;
+	margin-top: 15px;
+}
+
+header nav{
+	float: right;
+	margin-top: 20px;
+}
